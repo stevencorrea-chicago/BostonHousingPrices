@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>machine-learning/README.md at master · udacity/machine-learning</title>
+  <title>machine-learning/project_description.md at master · udacity/machine-learning</title>
     <meta name="description" content="Content for Udacity&#39;s Machine Learning curriculum">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/1916665?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="udacity/machine-learning" /><meta property="og:url" content="https://github.com/udacity/machine-learning" /><meta property="og:description" content="machine-learning - Content for Udacity&#39;s Machine Learning curriculum" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjkwMzcxMTI3Ojk3Yjc4YTg2NGMwNmU2MWIxZjk3NjExODdjMjNlNWYxM2I5OTYyMDA0NGYyY2U0ZTkzMWFkNjRjOGMyYWYyOTY=--80779e8f11e19754f1e60ef78a2a2b7c853054bf">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjkwMzcxMTI3OjZhMThhY2Q4N2ZhYjU2YzRjODhlODA1NzkyZDM2ODQ3ZWU0ODkzMmNkY2Q2YThlM2Y3YmY2ZDRhMmQ5ZjU3ZGI=--95e353b55fe3787bc96311cd3dba429dc1b4e0c4">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="FCC6:1DFF:218FA34:42F5E51:5B58FD40" data-pjax-transient>
+  <meta name="request-id" content="FCC6:1DFF:21902B2:42F6C3D:5B58FD59" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="FCC6:1DFF:218FA34:42F5E51:5B58FD40" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="40609698" /><meta name="octolytics-actor-login" content="stevencorrea-chicago" /><meta name="octolytics-actor-hash" content="dfd4854ba237b70333fd49bdddc3cc2e4a30367cc209f04725bab785d447adc6" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="FCC6:1DFF:21902B2:42F6C3D:5B58FD59" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="40609698" /><meta name="octolytics-actor-login" content="stevencorrea-chicago" /><meta name="octolytics-actor-hash" content="dfd4854ba237b70333fd49bdddc3cc2e4a30367cc209f04725bab785d447adc6" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -68,7 +68,7 @@
     <meta name="user-login" content="stevencorrea-chicago">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZTNhZGUyYmU3YzQ3MGJkNTNiYTgzNzhiNDI1MzFkYjQ2ZWIyYmM3NWFhZWM0YzBmYmNiYjhjOTNjYjM4NmE0Mnx7InJlbW90ZV9hZGRyZXNzIjoiMTA4LjE5OS4xNzIuOTQiLCJyZXF1ZXN0X2lkIjoiRkNDNjoxREZGOjIxOEZBMzQ6NDJGNUU1MTo1QjU4RkQ0MCIsInRpbWVzdGFtcCI6MTUzMjU1ODY1NywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ZWZiYTMxMmQ4NWFjYmJlNDk5YjIwZTJlYjYyOGM4ODA0OWE4MjIzNTEyY2RlYzI2YTdkMzg3MzRhYTIzODAxY3x7InJlbW90ZV9hZGRyZXNzIjoiMTA4LjE5OS4xNzIuOTQiLCJyZXF1ZXN0X2lkIjoiRkNDNjoxREZGOjIxOTAyQjI6NDJGNkMzRDo1QjU4RkQ1OSIsInRpbWVzdGFtcCI6MTUzMjU1ODY4OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_SEARCH,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
@@ -84,7 +84,7 @@
   <meta name="octolytics-dimension-user_id" content="1916665" /><meta name="octolytics-dimension-user_login" content="udacity" /><meta name="octolytics-dimension-repository_id" content="50450433" /><meta name="octolytics-dimension-repository_nwo" content="udacity/machine-learning" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="50450433" /><meta name="octolytics-dimension-repository_network_root_nwo" content="udacity/machine-learning" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/udacity/machine-learning/blob/master/projects/boston_housing/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/udacity/machine-learning/blob/master/projects/boston_housing/project_description.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -153,7 +153,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=CPTfVIcj3RJi9FBBxAeUEpKfxaIVSScPLVioHS3toA3Hasf9dT9pwXxDbh+ByVHdgJhyRqwtMqtwibCKyIITog=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=nMmUZDGYK/Bcf69xvcNP/RkaVrtGClKHt1Ap9WywaCJTV4zNw4SfI0LIkS/4DYoyCx3hX/9uRyPqgTFiid/bjQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -303,7 +303,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Wg+jPYCcABwU4VgFvTxv/2167sYNoPjAvX0TevZa/4/PP1RGJDXoBhYqJkdPFVSkZrD9EhJaykIQYZ/2T8/+6g==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RC2AhTZXWQCEOMNfRdHxhnybkEy4rx+tRePT4uDlEcnRHXf+kv6xGobzvR23+Mrdd1GDmKdVLS/o/19uWXAQrA==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -316,7 +316,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gsoiHj2plhWxMZB1CvwtkcxULU+s+sMwOoVZJrARjfMX+tVlmQB+D7P67jf41RbKx54+m7MA8bKXmdWqCYSMlg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AQG6rtVa8J9Rt93h/MGGis1/k39/DLPVqXnvNbA+xJKUMU3VcfMYhVN8o6MO6L3RxrWAq2D2gVcEZWO5CavF9w==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -354,7 +354,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wNu1FGTJxxP6QunZo9lMG+zgK3EUTIfFYxHGKc4zNtdNBb/b3WARZf/xTp8P3LhWwG/XCJhsA5WTy6cN8e6AXA==" />      <input type="hidden" name="repository_id" id="repository_id" value="50450433" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2NbK5yzk9lCkwn6mm6LcRNT3b9KP3fAnUXwNdUPpPQxVCMAolU0gJqFx2eA3pygJ+HiTqwP9dHehpmxRfDSLhw==" />      <input type="hidden" name="repository_id" id="repository_id" value="50450433" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/udacity/machine-learning/subscription"
@@ -434,7 +434,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/udacity/machine-learning/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ig5sHi7La3S10/ltWdrOFeSQGd95WoMPWQF6+Bn5B2IZC1Nk6qReCY887IK3DWAE+lNSH0E1BPqq2EkW2zpvDw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/udacity/machine-learning/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="d4rqVLkLQMmYgncd8mUca8Nk2mN9EQEZK/3r4Ed6FK3kj9UufWR1tKJtYvIcsrJ63aeRo0V+huzYJNgOhbl8wA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -449,7 +449,7 @@
           2,187
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/udacity/machine-learning/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iFlFWPKq0SjsjOn3b6mFpbx63ZJy8WU9ISROqsvAQgubwGhKGYdEueKgFiBbiKhRreKPZ898zlvrk58SOxqzoQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/udacity/machine-learning/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xITkNZsBjF9boda2xzFnRgrtfgOs9eUIQ9xzed91GVXXHckncCwZzlWNKWHzEEqyG3Us9hF4Tm6Ja6LBL6/o/w==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -468,7 +468,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/udacity/machine-learning/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OL5FmC6dEc0jDzdrz4LURv37ZMiLh5iS/D8wSV5kJpVJEQNj4wLMx3V8ARVODq89MRTZtYxdRtRRW1gt+hzAyQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/udacity/machine-learning/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0lEFs6utjqdXLoHkarBRBnneQeNcj09v5c08N1YqE6+j/kNIZjJTrQFdt5rrPCp9tTH8nltVkSlIqVRT8lL18w==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -549,9 +549,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/udacity/machine-learning/blob/1baaec7cad07065df94e0cad830925d7e53c5af7/projects/boston_housing/README.md">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/udacity/machine-learning/blob/1baaec7cad07065df94e0cad830925d7e53c5af7/projects/boston_housing/project_description.md">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:e68b92d3c381594ddda93bcb6dee40ab -->
+  <!-- blob contrib key: blob_contributors:v21:00aa190a8fbfe3694c7a452b608e51fa -->
 
   
 
@@ -595,7 +595,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/development/projects/boston_housing/README.md"
+               href="/udacity/machine-learning/blob/development/projects/boston_housing/project_description.md"
                data-name="development"
                data-skip-pjax="true"
                rel="nofollow">
@@ -605,7 +605,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/udacity/machine-learning/blob/master/projects/boston_housing/README.md"
+               href="/udacity/machine-learning/blob/master/projects/boston_housing/project_description.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -615,7 +615,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/nicky/remove-log-ignore/projects/boston_housing/README.md"
+               href="/udacity/machine-learning/blob/nicky/remove-log-ignore/projects/boston_housing/project_description.md"
                data-name="nicky/remove-log-ignore"
                data-skip-pjax="true"
                rel="nofollow">
@@ -625,7 +625,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/revert-170-master/projects/boston_housing/README.md"
+               href="/udacity/machine-learning/blob/revert-170-master/projects/boston_housing/project_description.md"
                data-name="revert-170-master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -635,7 +635,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/smartcab-fix/projects/boston_housing/README.md"
+               href="/udacity/machine-learning/blob/smartcab-fix/projects/boston_housing/project_description.md"
                data-name="smartcab-fix"
                data-skip-pjax="true"
                rel="nofollow">
@@ -645,7 +645,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/test_normalize/projects/boston_housing/README.md"
+               href="/udacity/machine-learning/blob/test_normalize/projects/boston_housing/project_description.md"
                data-name="test_normalize"
                data-skip-pjax="true"
                rel="nofollow">
@@ -684,7 +684,7 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/udacity/machine-learning"><span>machine-learning</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/udacity/machine-learning/tree/master/projects"><span>projects</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/udacity/machine-learning/tree/master/projects/boston_housing"><span>boston_housing</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/udacity/machine-learning"><span>machine-learning</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/udacity/machine-learning/tree/master/projects"><span>projects</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/udacity/machine-learning/tree/master/projects/boston_housing"><span>boston_housing</span></a></span><span class="separator">/</span><strong class="final-path">project_description.md</strong>
     </div>
   </div>
 
@@ -692,15 +692,15 @@
   
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/udacity/machine-learning/commit/1baaec7cad07065df94e0cad830925d7e53c5af7" data-pjax>
-          1baaec7
+        <a class="commit-tease-sha" href="/udacity/machine-learning/commit/f6009e19e1bb7fcd94d3491f8e752de279b6b7c4" data-pjax>
+          f6009e1
         </a>
-        <relative-time datetime="2018-04-27T16:36:34Z">Apr 27, 2018</relative-time>
+        <relative-time datetime="2018-01-11T20:09:04Z">Jan 12, 2018</relative-time>
       </span>
       <div>
         <a rel="contributor" data-skip-pjax="true" data-hovercard-user-id="7635641" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/adarsh0806"><img class="avatar" src="https://avatars3.githubusercontent.com/u/7635641?s=40&amp;v=4" width="20" height="20" alt="@adarsh0806" /></a>
         <a class="user-mention" rel="contributor" data-hovercard-user-id="7635641" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/adarsh0806">adarsh0806</a>
-          <a data-pjax="true" title="bh py3" class="message" href="/udacity/machine-learning/commit/1baaec7cad07065df94e0cad830925d7e53c5af7">bh py3</a>
+          <a data-pjax="true" title="boston housing readme" class="message" href="/udacity/machine-learning/commit/f6009e19e1bb7fcd94d3491f8e752de279b6b7c4">boston housing readme</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -708,7 +708,7 @@
 <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
   <summary class="btn-link" aria-haspopup="dialog" >
     
-    <span><strong>3</strong> contributors</span>
+    <span><strong>2</strong> contributors</span>
   </summary>
   <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast " aria-label="Users who have contributed to this file">
     <div class="Box-header">
@@ -720,30 +720,23 @@
     
         <ul class="list-style-none overflow-auto">
             <li class="Box-row">
-              <a class="link-gray-dark no-underline" href="/adarsh0806">
-                <img class="avatar mr-2" alt="" src="https://avatars3.githubusercontent.com/u/7635641?s=40&amp;v=4" width="20" height="20" />
-                adarsh0806
-</a>            </li>
-            <li class="Box-row">
               <a class="link-gray-dark no-underline" href="/jared-weed">
                 <img class="avatar mr-2" alt="" src="https://avatars2.githubusercontent.com/u/7775086?s=40&amp;v=4" width="20" height="20" />
                 jared-weed
 </a>            </li>
             <li class="Box-row">
-              <a class="link-gray-dark no-underline" href="/napratin">
-                <img class="avatar mr-2" alt="" src="https://avatars1.githubusercontent.com/u/2446394?s=40&amp;v=4" width="20" height="20" />
-                napratin
+              <a class="link-gray-dark no-underline" href="/adarsh0806">
+                <img class="avatar mr-2" alt="" src="https://avatars3.githubusercontent.com/u/7635641?s=40&amp;v=4" width="20" height="20" />
+                adarsh0806
 </a>            </li>
         </ul>
 
   </details-dialog>
 </details>
-          <a class="avatar-link" data-hovercard-user-id="7635641" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/udacity/machine-learning/commits/master/projects/boston_housing/README.md?author=adarsh0806">
-      <img class="avatar" src="https://avatars3.githubusercontent.com/u/7635641?s=40&amp;v=4" width="20" height="20" alt="@adarsh0806" /> 
-</a>    <a class="avatar-link" data-hovercard-user-id="7775086" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/udacity/machine-learning/commits/master/projects/boston_housing/README.md?author=jared-weed">
+          <a class="avatar-link" data-hovercard-user-id="7775086" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/udacity/machine-learning/commits/master/projects/boston_housing/project_description.md?author=jared-weed">
       <img class="avatar" src="https://avatars2.githubusercontent.com/u/7775086?s=40&amp;v=4" width="20" height="20" alt="@jared-weed" /> 
-</a>    <a class="avatar-link" data-hovercard-user-id="2446394" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/udacity/machine-learning/commits/master/projects/boston_housing/README.md?author=napratin">
-      <img class="avatar" src="https://avatars1.githubusercontent.com/u/2446394?s=40&amp;v=4" width="20" height="20" alt="@napratin" /> 
+</a>    <a class="avatar-link" data-hovercard-user-id="7635641" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/udacity/machine-learning/commits/master/projects/boston_housing/project_description.md?author=adarsh0806">
+      <img class="avatar" src="https://avatars3.githubusercontent.com/u/7635641?s=40&amp;v=4" width="20" height="20" alt="@adarsh0806" /> 
 </a>
 
     </div>
@@ -756,25 +749,25 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/udacity/machine-learning/raw/master/projects/boston_housing/README.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/udacity/machine-learning/blame/master/projects/boston_housing/README.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/udacity/machine-learning/commits/master/projects/boston_housing/README.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/udacity/machine-learning/raw/master/projects/boston_housing/project_description.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/udacity/machine-learning/blame/master/projects/boston_housing/project_description.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/udacity/machine-learning/commits/master/projects/boston_housing/project_description.md">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="x-github-client://openRepo/https://github.com/udacity/machine-learning?branch=master&amp;filepath=projects%2Fboston_housing%2FREADME.md"
+           href="x-github-client://openRepo/https://github.com/udacity/machine-learning?branch=master&amp;filepath=projects%2Fboston_housing%2Fproject_description.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/udacity/machine-learning/edit/master/projects/boston_housing/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="6Fm1Rz0KXTm9c+Ede9mCLhq63efLqjDtUqrQs+wf9JUnwSnV8AoKKsfkfqxBN57MI1kIgyWR4YDZv55gD8zumQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/udacity/machine-learning/edit/master/projects/boston_housing/project_description.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JDW5QN68NIJ0Td60GYsQaV0UP+mbp1bnh1QTLNDldDYEKAF1WxeDej3UoFhwy73f6kscyJaiMV+pzPq+LbH5+w==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/udacity/machine-learning/delete/master/projects/boston_housing/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="POnV3bQ5NPa9AkzVCbuDRTiulIXDur7Jjz1LAXzXYKxheGZAia6/ffcKnT9hWan50Sd4aU5aC7ox8ttLKRmd8g==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/udacity/machine-learning/delete/master/projects/boston_housing/project_description.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="K2CEvWptrBXNbdzu12BiinWclw7hNw4t8tPWe3SIScw7rc7Fidz/YxpE78L+fW6Pyk6bqqrf0OMNv1Z5d3w0FA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -782,45 +775,64 @@
 </form>  </div>
 
   <div class="file-info">
-      46 lines (31 sloc)
+      64 lines (42 sloc)
       <span class="file-info-divider"></span>
-    2.15 KB
+    5.78 KB
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-machine-learning-engineer-nanodegree" class="anchor" aria-hidden="true" href="#machine-learning-engineer-nanodegree"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Machine Learning Engineer Nanodegree</h1>
-<h1><a id="user-content-model-evaluation-and-validation" class="anchor" aria-hidden="true" href="#model-evaluation-and-validation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Model Evaluation and Validation</h1>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-content-model-evaluation-and-validation" class="anchor" aria-hidden="true" href="#content-model-evaluation-and-validation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Content: Model Evaluation and Validation</h1>
 <h2><a id="user-content-project-predicting-boston-housing-prices" class="anchor" aria-hidden="true" href="#project-predicting-boston-housing-prices"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project: Predicting Boston Housing Prices</h2>
-<h3><a id="user-content-install" class="anchor" aria-hidden="true" href="#install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Install</h3>
-<p>This project requires <strong>Python</strong> and the following Python libraries installed:</p>
+<h2><a id="user-content-project-overview" class="anchor" aria-hidden="true" href="#project-overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project Overview</h2>
+<p>In this project, you will apply basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. You will first explore the data to obtain important features and descriptive statistics about the dataset. Next, you will properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. You will then analyze performance graphs for a learning algorithm with varying parameters and training set sizes. This will enable you to pick the optimal model that best generalizes for unseen data. Finally, you will test this optimal model on a new sample and compare the predicted selling price to your statistics.</p>
+<h2><a id="user-content-project-highlights" class="anchor" aria-hidden="true" href="#project-highlights"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project Highlights</h2>
+<p>This project is designed to get you acquainted to working with datasets in Python and applying basic machine learning techniques using NumPy and Scikit-Learn. Before being expected to use many of the available algorithms in the sklearn library, it will be helpful to first practice analyzing and interpreting the performance of your model.</p>
+<p>Things you will learn by completing this project:</p>
 <ul>
-<li><a href="http://www.numpy.org/" rel="nofollow">NumPy</a></li>
-<li><a href="http://pandas.pydata.org/" rel="nofollow">Pandas</a></li>
-<li><a href="http://matplotlib.org/" rel="nofollow">matplotlib</a></li>
-<li><a href="http://scikit-learn.org/stable/" rel="nofollow">scikit-learn</a></li>
+<li>How to use NumPy to investigate the latent features of a dataset.</li>
+<li>How to analyze various learning performance plots for variance and bias.</li>
+<li>How to determine the best-guess model for predictions from unseen data.</li>
+<li>How to evaluate a model's performance on unseen data using previous data.</li>
 </ul>
-<p>You will also need to have software installed to run and execute a <a href="http://ipython.org/notebook.html" rel="nofollow">Jupyter Notebook</a></p>
+<h2><a id="user-content-description" class="anchor" aria-hidden="true" href="#description"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Description</h2>
+<p>The Boston housing market is highly competitive, and you want to be the best real estate agent in the area. To compete with your peers, you decide to leverage a few basic machine learning concepts to assist you and a client with finding the best selling price for their home. Luckily, you've come across the Boston Housing dataset which contains aggregated data on various features for houses in Greater Boston communities, including the median value of homes for each of those areas. Your task is to build an optimal model based on a statistical analysis with the tools available. This model will then be used to estimate the best selling price for your clients' homes.</p>
+<h2><a id="user-content-software-and-libraries" class="anchor" aria-hidden="true" href="#software-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Software and Libraries</h2>
+<p>This project uses the following software and Python libraries:</p>
+<ul>
+<li><a href="https://www.python.org/download/releases/3.0/" rel="nofollow">Python</a></li>
+<li><a href="http://www.numpy.org/" rel="nofollow">NumPy</a></li>
+<li><a href="http://pandas.pydata.org/" rel="nofollow">pandas</a></li>
+<li><a href="http://scikit-learn.org/stable/" rel="nofollow">scikit-learn</a></li>
+<li><a href="http://matplotlib.org/" rel="nofollow">matplotlib</a></li>
+</ul>
+<p>You will also need to have software installed to run and execute a <a href="http://ipython.org/notebook.html" rel="nofollow">Jupyter Notebook</a>.</p>
 <p>If you do not have Python installed yet, it is highly recommended that you install the <a href="http://continuum.io/downloads" rel="nofollow">Anaconda</a> distribution of Python, which already has the above packages and more included.</p>
-<h3><a id="user-content-code" class="anchor" aria-hidden="true" href="#code"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Code</h3>
-<p>Template code is provided in the <code>boston_housing.ipynb</code> notebook file. You will also be required to use the included <code>visuals.py</code> Python file and the <code>housing.csv</code> dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in <code>visuals.py</code> is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.</p>
-<h3><a id="user-content-run" class="anchor" aria-hidden="true" href="#run"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Run</h3>
-<p>In a terminal or command window, navigate to the top-level project directory <code>boston_housing/</code> (that contains this README) and run one of the following commands:</p>
-<div class="highlight highlight-source-shell"><pre>ipython notebook boston_housing.ipynb</pre></div>
-<p>or</p>
-<div class="highlight highlight-source-shell"><pre>jupyter notebook boston_housing.ipynb</pre></div>
-<p>This will open the Jupyter Notebook software and project file in your browser.</p>
-<h3><a id="user-content-data" class="anchor" aria-hidden="true" href="#data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Data</h3>
-<p>The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the <a href="https://archive.ics.uci.edu/ml/datasets/Housing" rel="nofollow">UCI Machine Learning Repository</a>.</p>
-<p><strong>Features</strong></p>
-<ol>
-<li><code>RM</code>: average number of rooms per dwelling</li>
-<li><code>LSTAT</code>: percentage of population considered lower status</li>
-<li><code>PTRATIO</code>: pupil-teacher ratio by town</li>
-</ol>
-<p><strong>Target Variable</strong>
-4. <code>MEDV</code>: median value of owner-occupied homes</p>
+<h2><a id="user-content-starting-the-project" class="anchor" aria-hidden="true" href="#starting-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Starting the Project</h2>
+<p>For this assignment, you can find the <code>boston_housing</code> folder containing the necessary project files on the <a href="https://github.com/udacity/machine-learning">Machine Learning projects GitHub</a>, under the <code>projects</code> folder. You may download all of the files for projects we'll use in this Nanodegree program directly from this repo. Please make sure that you use the most recent version of project files when completing a project!</p>
+<p>This project contains three files:</p>
+<ul>
+<li><code>boston_housing.ipynb</code>: This is the main file where you will be performing your work on the project.</li>
+<li><code>housing.csv</code>: The project dataset. You'll load this data in the notebook.</li>
+<li><code>visuals.py</code>: This Python script provides supplementary visualizations for the project. Do not modify.</li>
+</ul>
+<p>In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command <code>jupyter notebook boston_housing.ipynb</code> to open up a browser window or tab to work with your notebook. Alternatively, you can use the command <code>jupyter notebook</code> or <code>ipython notebook</code> and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A <strong>README</strong> file has also been provided with the project files which may contain additional necessary information or instruction for the project.</p>
+<h2><a id="user-content-submitting-the-project" class="anchor" aria-hidden="true" href="#submitting-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submitting the Project</h2>
+<h3><a id="user-content-evaluation" class="anchor" aria-hidden="true" href="#evaluation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Evaluation</h3>
+<p>Your project will be reviewed by a Udacity reviewer against the <strong><a href="https://review.udacity.com/#!/rubrics/103/view" rel="nofollow">Predicting Boston Housing Prices project rubric</a></strong>. Be sure to review this rubric thoroughly and self-evaluate your project before submission. All criteria found in the rubric must be <em>meeting specifications</em> for you to pass.</p>
+<h3><a id="user-content-submission-files" class="anchor" aria-hidden="true" href="#submission-files"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submission Files</h3>
+<p>When you are ready to submit your project, collect the following files and compress them into a single archive for upload. Alternatively, you may supply the following files on your GitHub Repo in a folder named <code>boston_housing</code> for ease of access:</p>
+<ul>
+<li>The <code>boston_housing.ipynb</code> notebook file with all questions answered and all code cells executed and displaying output.</li>
+<li>An <strong>HTML</strong> export of the project notebook with the name <strong>report.html</strong>. This file <em>must</em> be present for your project to be evaluated.</li>
+</ul>
+<p>Once you have collected these files and reviewed the project rubric, proceed to the project submission page.</p>
+<h3><a id="user-content-im-ready" class="anchor" aria-hidden="true" href="#im-ready"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>I'm Ready!</h3>
+<p>When you're ready to submit your project, click on the <strong>Submit Project</strong> button at the bottom of the page.</p>
+<p>If you are having any problems submitting your project or wish to check on the status of your submission, please email us at <strong><a href="mailto:machine-support@udacity.com">machine-support@udacity.com</a></strong> or visit us in the <a href="http://discussions.udacity.com" rel="nofollow">discussion forums</a>.</p>
+<h3><a id="user-content-whats-next" class="anchor" aria-hidden="true" href="#whats-next"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What's Next?</h3>
+<p>You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!</p>
 </article>
   </div>
 
@@ -849,7 +861,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.62486s from unicorn-1275584565-mz1rr">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.32602s from unicorn-1275584565-tm361">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
